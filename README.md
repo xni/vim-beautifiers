@@ -6,7 +6,7 @@ to online beatutifying tools I'm using quite often to
 structure contents of the log files.
 
 How it works:
-  1. Paste contents to the buffer
+  1. Paste contents to the buffer (`"*p` in case of MacVim, gVim)
   2. Run a command.
 
 Supported commands:
