@@ -19,5 +19,5 @@ Install using Vundle
 --------------------
 
 ```
-:InstallPlugin xni/vim-beautifiers
+:PluginInstall xni/vim-beautifiers
 ```
