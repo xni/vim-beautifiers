@@ -2,7 +2,7 @@ VIM Beautifiers
 ===============
 
 It is an extremely simple pluging that works as a replacement
-to online beatutifying tools I'm using quite ofter to
+to online beatutifying tools I'm using quite often to
 structure contents of the log files.
 
 How it works:
