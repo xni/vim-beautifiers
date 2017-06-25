@@ -10,8 +10,8 @@ How it works:
   2. Run a command.
 
 Supported commands:
-  * `:JSONbeautify`
-  * `:XMLbeautify`
+  * `:JSONbeautify` - Vim JSON beautifier
+  * `:XMLbeautify` - Vim XML beautifier
 
 Pull requests and feedback are always welcome.
 
